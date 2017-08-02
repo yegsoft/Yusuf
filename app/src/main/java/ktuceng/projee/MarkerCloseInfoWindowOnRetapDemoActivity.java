@@ -45,7 +45,6 @@ public class MarkerCloseInfoWindowOnRetapDemoActivity extends AppCompatActivity 
     private static final LatLng PERTH = new LatLng(-31.952854, 115.857342);
 
     private GoogleMap mMap = null;
-    ;
 
     /**
      * Keeps track of the selected marker.
